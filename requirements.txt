@@ -1,0 +1,17 @@
+plotly
+streamlit
+pandas
+numpy
+matplotlib.pyplot
+pickle
+PIL
+base64
+plotly.express
+seaborn
+requests
+os
+streamlit_option_menu
+datetime
+option_menu
+sys
+subprocess
